@@ -1,0 +1,20 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+ul.admincp__menu {
+    list-style: none;
+    display: flex;
+    border: 1px solid #000;
+    padding: 20px;
+}
+
+ul.admincp__menu li {
+    margin-right: 20px;
+}
+
+.warpper__them {
+    border: 1px solid #000;
+    padding: 20px;
+}
